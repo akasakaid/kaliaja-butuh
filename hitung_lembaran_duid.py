@@ -1,3 +1,5 @@
+# code by AkasakaID
+
 jml = int(input('Masukkan jumlah uang: '))
 
 # pecahan seratus ribu
